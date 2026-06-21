@@ -1,6 +1,6 @@
 # Premium Portfolio - Nanda Tarmidzi Abdillah
 
-Tugas Akhir Pemrograman Web yang merancang platform portofolio digital interaktif berkonsep modern *Glassmorphism* dengan fokus pada topik *Cyber Security*.
+Tugas Akhir Dasar Desain Antar Pengguna yang merancang platform portofolio digital interaktif berkonsep modern *Glassmorphism* dengan fokus pada topik *Cyber Security*.
 
 ## Tech Stack & Libraries
 - **Struktur & Desain:** HTML5, CSS3 (Custom Variables, Media Queries)
